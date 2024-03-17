@@ -26,7 +26,9 @@ Sovellukseen on luotu toiminnallisuus, joka estää luukkujen ennenaikaisen avaa
   ![Sisällön luominen](img/instructions/modifyContent.png)
 3. Muuta päivämäärä haluamaksesi ja lisää Giphyn API-key:
   ![Päivämäärä ja API](img/instructions/dateAndAPI.png)
-4. Aloita käyttö avaamalla index.html-tiedosto selaimessa.
+4. Testaa toiminnot avaamalla index.html-tiedosto selaimessa.
+5. Luo sovelluksesta WEB-sivu esimerkiksi GitHub Pages työkalulla: https://pages.github.com/
+6. Jaa WEB-sivun URL haluamillesi henkilöille.
 
 ### Huomio:
 
