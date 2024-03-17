@@ -1,4 +1,4 @@
-# Joulukalenteri
+# Joulukalenteri ![Powered by Giphy](img/giphy/PoweredBy_200px-Black_HorizLogo.png)
 
 ## Tässä README-tiedostossa esitellään Joulukalenteri-sovellus. Sovelluksessa on 24 luukkua, jotka avautuvat vasta, kun niiden päivämäärä vastaa nykyistä päivämäärää. 
 
@@ -21,11 +21,14 @@ Sovellukseen on luotu toiminnallisuus, joka estää luukkujen ennenaikaisen avaa
 
 ### Käyttöönotto:
 
-- Lataa sovelluksen tiedostot GitHubista.
-- Luo päiväkohtaiset tekstisisällöt kullekin päivälle.
-- Sovelluksen lähdekoodi sisältää tarkemmat ohjeet päivämääräasetuksille ja Giphyn toimintakuntoon saattamiseksi.
-- Avaa index.html-tiedosto selaimessa aloittaaksesi käytön.
+1. Lataa sovelluksen tiedostot GitHubista.
+2. Luo päiväkohtaiset tekstisisällöt kullekin päivälle:
+  ![Sisällön luominen](img/instructions/modifyContent.png)
+3. Muuta päivämäärä haluamaksesi ja lisää Giphyn API-key:
+  ![Päivämäärä ja API](img/instructions/dateAndAPI.png)
+4. Aloita käyttö avaamalla index.html-tiedosto selaimessa.
 
 ### Huomio:
 
 Tämä sovellus on luotu opetus- ja viihdetarkoituksiin. En takaa sen virheettömyyttä tai sopivuutta mihinkään tiettyyn käyttötarkoitukseen.
+
